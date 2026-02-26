@@ -16,6 +16,14 @@ class DataEngineer:
 
 ---
 
+### 🚀 Projects
+
+- [**SequAI**](https://github.com/Himanshub15/SequAI) — A native desktop SQL editor built with Tauri, React & Rust, featuring multi-database support and a Sequel Pro-inspired UI.
+- [**AiUsage**](https://github.com/Himanshub15/AiUsage) — A web dashboard to track and visualize daily AI service usage across providers like OpenAI, Claude, and Gemini.
+- [**Portfolio & Blog**](https://github.com/Himanshub15/Himanshub15.github.io) — Personal website with blog posts, skills showcase, and dark/light theme — built with vanilla HTML, CSS & JS.
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages & Scripting**
