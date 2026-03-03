@@ -18,7 +18,7 @@ class DataEngineer:
 
 ### 🚀 Projects
 
-- 🧠 [**TuringAI**](https://github.com/Himanshub15/TuringAI) — AI chat app powered by Kimi K2.5 via NVIDIA NIM, with streaming, web search, and dark mode. Built with Next.js, TypeScript & Tailwind.
+- 🧠 [**TuringAI**](https://github.com/Himanshub15/TuringAI) — AI chat app with streaming, web search & dark mode. Next.js + NVIDIA NIM.
 - 🗄️ [**SequAI**](https://github.com/Himanshub15/SequAI) — Native SQL editor built with Tauri, React & Rust, with multi-database support.
 - 🤖 [**AiUsage**](https://github.com/Himanshub15/AiUsage) — Web dashboard to track and visualize daily AI usage across OpenAI, Claude, and Gemini.
 - 🌐 [**Portfolio & Blog**](https://github.com/Himanshub15/Himanshub15.github.io) — Personal site with blog posts and skills showcase, built with vanilla HTML, CSS & JS.
