@@ -20,7 +20,7 @@ class DataEngineer:
 
 - 🧠 [**TuringAI**](https://github.com/Himanshub15/TuringAI) — AI chat app with streaming, web search & dark mode. Next.js + NVIDIA NIM.
 - 🗄️ [**SequAI**](https://github.com/Himanshub15/SequAI) — Native SQL editor built with Tauri, React & Rust, with multi-database support.
-- 🔮 [**RAG Mastery**](https://github.com/Himanshub15/RAG-Mastery) — Interactive guide to Retrieval-Augmented Generation — vector databases, embeddings, LLMs & quizzes. Pure HTML/CSS/JS.
+- 🔮 [**RAG Mastery**](https://github.com/Himanshub15/RAG-Mastery) — Interactive guide to RAG, vector databases, embeddings & LLMs. Pure HTML/CSS/JS.
 - 🤖 [**AiUsage**](https://github.com/Himanshub15/AiUsage) — Web dashboard to track and visualize daily AI usage across OpenAI, Claude, and Gemini.
 - 🌐 [**Portfolio & Blog**](https://github.com/Himanshub15/Himanshub15.github.io) — Personal site with blog posts and skills showcase, built with vanilla HTML, CSS & JS.
 
