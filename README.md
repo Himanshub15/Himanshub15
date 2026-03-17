@@ -18,6 +18,7 @@ class DataEngineer:
 
 ### 🚀 Projects
 
+- 🌱 [**Bloomkeeper**](https://github.com/Himanshub15/habit-tracker) — Garden-themed habit tracker where habits grow as plants. Pure HTML/CSS/JS. [Live Demo](https://himanshub15.github.io/habit-tracker)
 - 🧠 [**TuringAI**](https://github.com/Himanshub15/TuringAI) — AI chat app with streaming, web search & dark mode. Next.js + NVIDIA NIM.
 - 🗄️ [**Sequel AI**](https://github.com/Himanshub15/sequel-ai) — Native SQL editor with built-in AI assistant. Tauri + React + Rust, inspired by Sequel Pro.
 - 🔮 [**RAG Mastery**](https://github.com/Himanshub15/RAG-Mastery) — Interactive guide to RAG, vector databases, embeddings & LLMs. Pure HTML/CSS/JS.
