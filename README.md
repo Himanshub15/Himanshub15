@@ -1,6 +1,6 @@
 # Hey, I'm Himanshu 👋
 
-**Data Engineer** with 4 years of experience building robust data pipelines and optimizing data operations. I turn messy data into clean, actionable insights.
+**Data Engineer** with 6 years of experience building robust data pipelines and optimizing data operations. I turn messy data into clean, actionable insights.
 
 ```python
 class DataEngineer:
