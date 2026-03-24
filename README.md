@@ -18,7 +18,7 @@ class DataEngineer:
 
 ### 🚀 Projects
 
-- 📋 [**ClipStash**](https://github.com/Himanshub15/ClipStash) — Lightweight macOS menu bar clipboard manager — remembers your last 5 copies. One command to install, auto-updates. [Website](https://himanshub15.github.io/ClipStash) · [Blog Post](https://himanshub15.github.io/posts/building-clipstash.html)
+- 📋 [**ClipStash**](https://github.com/Himanshub15/ClipStash) — Lightweight macOS menu bar clipboard manager. One command to install, auto-updates. [Live Site](https://himanshub15.github.io/ClipStash)
 - 🌱 [**Bloomkeeper**](https://github.com/Himanshub15/habit-tracker) — Garden-themed habit tracker where habits grow as plants. Pure HTML/CSS/JS. [Live Demo](https://himanshub15.github.io/habit-tracker)
 - 🧠 [**TuringAI**](https://github.com/Himanshub15/TuringAI) — AI chat app with streaming, web search & dark mode. Next.js + NVIDIA NIM.
 - 🗄️ [**Sequel AI**](https://github.com/Himanshub15/sequel-ai) — Native SQL editor with built-in AI assistant. Tauri + React + Rust, inspired by Sequel Pro.
