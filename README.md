@@ -7,7 +7,7 @@ class DataEngineer:
     def __init__(self):
         self.name = "Himanshu Bhusari"
         self.role = "Data Engineer"
-        self.experience = "4 years"
+        self.experience = "6 years"
         self.location = "🌍 Available for remote collaboration"
 
     def daily_routine(self):
