@@ -18,7 +18,7 @@ class DataEngineer:
 
 ### 🚀 Projects
 
-- 🖥️ [**ServerMind**](https://github.com/Himanshub15/ServerMind) — Real-time server monitoring dashboard with htop-style process viewer, ETL pipeline tracking, anomaly detection & AI chat. FastAPI + React.
+- 🖥️ [**ServerMind**](https://github.com/Himanshub15/ServerMind) — Real-time server monitoring agent with htop-style process viewer, ETL pipeline tracking and AI chat.
 - 📋 [**ClipStash**](https://github.com/Himanshub15/ClipStash) — Lightweight macOS menu bar clipboard manager. One command to install, auto-updates.
 - 🌱 [**Bloomkeeper**](https://github.com/Himanshub15/habit-tracker) — Garden-themed habit tracker where habits grow as plants. Pure HTML/CSS/JS.
 - 🧠 [**TuringAI**](https://github.com/Himanshub15/TuringAI) — AI chat app with streaming, web search & dark mode. Next.js + NVIDIA NIM.
