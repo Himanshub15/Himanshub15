@@ -1,13 +1,13 @@
 # Hey, I'm Himanshu 👋
 
-**Data Engineer** with 6 years of experience building robust data pipelines and optimizing data operations. I turn messy data into clean, actionable insights.
+**Data Engineer** with 5+ years of experience building robust data pipelines and optimizing data operations. I turn messy data into clean, actionable insights.
 
 ```python
 class DataEngineer:
     def __init__(self):
         self.name = "Himanshu Bhusari"
         self.role = "Data Engineer"
-        self.experience = "6 years"
+        self.experience = "5+ years"
         self.location = "🌍 Available for remote collaboration"
 
     def daily_routine(self):
