@@ -18,6 +18,7 @@ class DataEngineer:
 
 ### 🚀 Projects
 
+- 🌿 [**git-floww**](https://github.com/Himanshub15/git-floww) — Interactive git branch visualizer. Draw branches, merges & rebases as tree diagrams. React + D3.js.
 - 🖥️ [**ServerMind**](https://github.com/Himanshub15/ServerMind) — Real-time server monitoring agent with htop-style process viewer, ETL pipeline tracking and AI chat.
 - 📋 [**ClipStash**](https://github.com/Himanshub15/ClipStash) — Lightweight macOS menu bar clipboard manager. One command to install, auto-updates.
 - 🌱 [**Bloomkeeper**](https://github.com/Himanshub15/habit-tracker) — Garden-themed habit tracker where habits grow as plants. Pure HTML/CSS/JS.
