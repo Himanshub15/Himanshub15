@@ -81,14 +81,14 @@ Linux   ██████████████████░░░  85%
 ### 🌱 Currently
 
 - 🔭 Working on: **Aviation data systems & ETL optimization**
-- 📝 Writing about: **[The Two Photo Syndrome](https://himanshub15.github.io/posts/two-photo-syndrome)** and other observations
+- 📝 Writing about: **[The Two Photo Syndrome](https://himanshubhusari.com/posts/two-photo-syndrome)** and other observations
 - 🎯 Goal: Contributing to open-source data tools
 
 ---
 
 ### 📫 Let's Connect
 
-[![Website](https://img.shields.io/badge/Website-himanshub15.github.io-e07850?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshub15.github.io)
+[![Website](https://img.shields.io/badge/Website-himanshubhusari.com-e07850?style=for-the-badge&logo=google-chrome&logoColor=white)](https://himanshubhusari.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-himanshubhusari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshubhusari/)
 [![Email](https://img.shields.io/badge/Email-himanshubhusari@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshubhusari@gmail.com)
 
